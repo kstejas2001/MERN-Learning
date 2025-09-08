@@ -1,0 +1,19 @@
+1: Headings & Paragraphs
+
+📌 Headings
+    HTML has 6 levels of headings:
+
+        <h1>This is Heading 1</h1>
+        <h2>This is Heading 2</h2>
+                    .
+                    .
+                    .
+        <h6>This is Heading 6</h6>
+
+    <h1> = biggest, most important heading.
+    <h6> = smallest, least important.
+
+📌 Paragraph
+    A paragraph is written with the <p> tag:
+
+        <p>This is a normal paragraph in HTML. It can have multiple sentences.</p>

@@ -1,0 +1,13 @@
+Task for you
+
+    1. Open your index.html.
+    2. Inside the <body> tag, add:
+        - One <h1> with your name or title.
+        - One <h2> like "Learning HTML".
+        - One <p> with any sentence (like why you want to learn MERN).
+
+What does HTML stand for?
+    -- Hot Typing Markup Language
+    -- Home Typing Modern Language
+    -- Hyper Text Markup Language
+    -- Home Testing Mixed Language
