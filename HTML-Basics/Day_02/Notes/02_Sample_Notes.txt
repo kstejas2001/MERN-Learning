@@ -1,0 +1,22 @@
+2: Line Breaks & Horizontal Rules
+
+📌 Line Break (<br>)
+    -- Adds a new line inside a paragraph.
+    -- It's an empty tag (no closing).
+
+    Example:
+    <p>This is first line.<br>This is second line from same paragraph.</p>
+
+📌 Horizontal Rule (<hr>)
+    -- Draw a Horizontal line across the page.
+    -- Often used to separate sections.
+
+    Example:
+    <h2>Section One</h2>
+    <p>Content of section one.</p>
+    <hr>
+    <h2>Section Two</h2>
+    <p>Content of section two.</p>
+
+<br> → break the line inside text (new line).
+<hr> → separates sections with a line.

@@ -1,0 +1,5 @@
+Task for you
+
+    In your Day_01/Task_with_Solution/index.html (below what you already wrote):
+        -- Add a paragraph with 2-3 lines, but break them using <br>.
+        -- Add an <hr> line to separate two headings/paragraphs.
