@@ -1,0 +1,10 @@
+Task for you
+
+    1. Add an unordered list of 3–5 of your hobbies. Also,
+        a). Make one unordered list with square bullets.
+        
+    2. Add an ordered list of the steps you take in your daily routine. Also,
+        a). In your index.html, make one ordered list with Roman numerals.
+        b). Add one ordered list that starts at 10.
+
+    3. (Optional) Try one nested list (like skills under categories).

@@ -1,0 +1,61 @@
+3: Lists in HTML
+There are two main types of lists:
+    
+📌 Ordered List (<ol>): Items are numbered.
+Exmaple:
+    <ol>
+        <li>list one</li>
+        <li>list two</li>
+        <li>list three</li>
+    </ol>
+    
+    --> Ordered List Types: The "type" attribute changes the numbering style:
+     Exmaple:
+        <ol type="1">, type="A", type="a", type="I", type="i". We'll see the numbers, capital letters, small letters, Roman numerals (big & small).
+
+    --> Start Attribute: We can also start the numbering from any number:
+     Exmaple:
+        <ol type="1" start="5">
+            <li>Item Five</li>
+            <li>Item Six</li>
+        </ol>
+
+📌 Unordered List (<ul>): Items are bulleted.
+    <ul>
+        <li>list 1</li>
+        <li>list 2</li>
+        <li>list 3</li>
+    </ul>
+
+    --> Unordered List Types: The "type" attribute changes the bullet style:
+     Exmaple:
+        <ul type="disc">
+            <li>Disc (default)</li>
+        <ul>
+        <ul type="circle">
+            <li>Circle</li>
+        </ul>
+        <ul type="square">
+            <li>Square</li>
+        </ul>
+        <ul type="none">
+            <li>No bullet</li>
+        </ul>
+
+📌 Nested Lists: We can even put lists inside lists
+    <ol>
+        <li>Frontend
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+        </li>
+
+        <li>Backend
+            <ul>
+                <li>Node.js</li>
+                <li>Express.js</li>
+            </ul>
+        </li>
+    </ol>
